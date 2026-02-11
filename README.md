@@ -47,6 +47,15 @@ Tras cada ejecución, se genera un reporte visual en la raíz:
 1. Navega a la carpeta `reports/`.
 2. Abre el archivo `cucumber-report.html` en tu navegador preferido.
 
+### 🎥 Evidencia de Ejecución
+
+El framework está configurado para capturar evidencia visual completa de cada prueba ejecutada:
+
+* **Videos (.webm):** Se genera un video por cada escenario en la ruta `reports/videos/`. Estos archivos permiten auditar el comportamiento del navegador paso a paso.
+* **Screenshots (.png):** En caso de fallo, se captura una imagen del estado exacto del error en `reports/screenshots/`.
+
+> **Nota:** Para ver los videos, ejecute las pruebas localmente con `npm test` y revise la carpeta `reports/videos/`.
+
 ---
 ## 🏗️ Estructura del Proyecto
 
