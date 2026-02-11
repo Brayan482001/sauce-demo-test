@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "setup",
-        "Login"
+        "Login",
+        "dataBase"
     ]
 }
