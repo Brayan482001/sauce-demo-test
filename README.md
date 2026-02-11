@@ -11,7 +11,7 @@ Proyecto de automatización de pruebas de extremo a extremo (E2E) para la plataf
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone <url-de-tu-repositorio>
+    git clone (https://github.com/Brayan482001/sauce-demo-test.git)
     cd sauce-demo-test
     ```
 
