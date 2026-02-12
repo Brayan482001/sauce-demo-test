@@ -1,4 +1,4 @@
-# 🎭 SauceDemo E2E Automation Project
+# SauceDemo E2E Automation Project
 
 ![Playwright](https://img.shields.io/badge/Playwright-31C653?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
